@@ -19,3 +19,7 @@ Apresentação do Projeto de Graduação em Computação feito como pré requisi
 ### SBrT (2019)
 
 Apresentação do artigo _A semblance based TDOA algorithm for sound source localization_ no Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, feito no Instituto Teológico Franciscano (ITF) - Petrópolis/RJ.
+
+### Visão Computacional (2019)
+
+Apresentação do projeto desenvolvido para a disciplina Visão Computacional - Processamento de Imagens, cursada na Universidade Federal do ABC, Santo André/SP, no terceiro quadrimestre de 2019.
