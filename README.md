@@ -22,4 +22,8 @@ Apresentação do artigo _A semblance based TDOA algorithm for sound source loca
 
 ### Visão Computacional (2019)
 
-Apresentação do projeto desenvolvido para a disciplina Visão Computacional - Processamento de Imagens, cursada na Universidade Federal do ABC, Santo André/SP, no terceiro quadrimestre de 2019.
+Apresentação do projeto desenvolvido para a disciplina Visão Computacional - Processamento de Imagens, cursada na Universidade Federal do ABC, Santo André/SP, no terceiro quadrimestre de 2019. O projeto consiste na implementação simples de uma _pipeline_ de visão computacional para segmentação dos diferentes tecidos cerebrais à partir de imagens de ressonância magnética estrutural.
+
+### Lasso Regression (2020)
+
+Apresentação do projeto final da disciplina Fundamentos de Matemática para Computação, cursada na Universidade Federal do ABC, Santo André/SP, no primeiro quadrimestre de 2020. A apresentação apresenta uma discussão matemática da regressão Lasso, com alguns resultados e uma implementação por meio de _coordinate descent_.
