@@ -27,3 +27,7 @@ Apresentação do projeto desenvolvido para a disciplina Visão Computacional - 
 ### Lasso Regression (2020)
 
 Apresentação do projeto final da disciplina Fundamentos de Matemática para Computação, cursada na Universidade Federal do ABC, Santo André/SP, no primeiro quadrimestre de 2020. A apresentação apresenta uma discussão matemática da regressão Lasso, com alguns resultados e uma implementação por meio de _coordinate descent_.
+
+### Interpretando Modelos de Regressão Simbólica (2020)
+
+Apresentação feita no Webnar do laboratório HAL - UFABC investigandoo uso do Efeito Marginal para extrair informações de expressões simbólicas geradas pelo algoritmo ITEA em comparação com o uso de uma ferramenta agnóstica ao modelo. Palestras anteriores do laboratório estão disponíveis [aqui](https://www.youtube.com/channel/UCV4TWudCEf_8k4bagpvruXA).
