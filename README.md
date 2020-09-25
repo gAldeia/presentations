@@ -16,7 +16,7 @@ Apresentação (em inglês) do artigo _Group size, vocal grooming and the origin
 
 Apresentação do Projeto de Graduação em Computação feito como pré requisito para obtenção do título de Bacharel na Universidade Federal do ABC, Santo André/SP.
 
-### SBrT (2019)
+### SBrT 2019 (2019)
 
 Apresentação do artigo _A semblance based TDOA algorithm for sound source localization_ no Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, feito no Instituto Teológico Franciscano (ITF) - Petrópolis/RJ.
 
