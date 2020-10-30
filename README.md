@@ -31,3 +31,7 @@ Apresentação do projeto final da disciplina Fundamentos de Matemática para Co
 ### Interpretando Modelos de Regressão Simbólica (2020)
 
 Apresentação feita no Webnar do laboratório HAL - UFABC investigandoo uso do Efeito Marginal para extrair informações de expressões simbólicas geradas pelo algoritmo ITEA em comparação com o uso de uma ferramenta agnóstica ao modelo. Palestras anteriores do laboratório estão disponíveis [aqui](https://www.youtube.com/channel/UCV4TWudCEf_8k4bagpvruXA).
+
+### SBrT 2020 (2020)
+
+Apresentação do artigo _On the Semblance Based TDOA Algorithm for Sound Source Localization: a parametric study_ no Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, conferência online.
