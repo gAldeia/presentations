@@ -35,3 +35,7 @@ Apresentação feita no Webnar do laboratório HAL - UFABC investigandoo uso do 
 ### SBrT 2020 (2020)
 
 Apresentação do artigo _On the Semblance Based TDOA Algorithm for Sound Source Localization: a parametric study_ no Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, conferência online.
+
+### SHAP_explainer (2020)
+
+Apresentação do artigo _A Unified Approach to Interpreting Model Predictions_ para a disciplina de Mineração de Dados, cursada na Universidade Federal do ABC pelo Prof. Dr. Thiago Covões, no Programa de Pós Graduação em Ciência da Computação, Santo André/SP.
