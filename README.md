@@ -39,3 +39,7 @@ Apresentação do artigo _On the Semblance Based TDOA Algorithm for Sound Source
 ### SHAP_explainer (2020)
 
 Apresentação do artigo _A Unified Approach to Interpreting Model Predictions_ para a disciplina de Mineração de Dados, cursada na Universidade Federal do ABC pelo Prof. Dr. Thiago Covões, no Programa de Pós Graduação em Ciência da Computação, Santo André/SP.
+
+### Quali_mestrado (2021)
+
+Apresentação do meu exame de qualificação no Programa de Pós Graduação em Ciência da Computação na Universidade Federal do ABC. O projeto trata da questão de avaliação de interpretabilidade em regressão simbólica. A apresentação foi feita de forma online
