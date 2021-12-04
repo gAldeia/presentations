@@ -42,4 +42,8 @@ Apresentação do artigo _A Unified Approach to Interpreting Model Predictions_ 
 
 ### Quali_mestrado (2021)
 
-Apresentação do meu exame de qualificação no Programa de Pós Graduação em Ciência da Computação na Universidade Federal do ABC. O projeto trata da questão de avaliação de interpretabilidade em regressão simbólica. A apresentação foi feita de forma online.
+Apresentação do meu exame de qualificação no Programa de Pós Graduação em Ciência da Computação na Universidade Federal do ABC. A apresentação trata da questão de avaliação de interpretabilidade em regressão simbólica. A apresentação foi feita de forma online.
+
+### Defesa_mestrado (2021)
+
+Apresentação do exame de defesa de dissertação de mestrado no Programa de Pós Graduação em Ciência da Computação na Universidade Federal do ABC. A apresentação da defesa realizou diversas modificações em relação à apresentação da qualificação, seguindo as orientações dadas pelos membros da banca após a qualificação. A dissertação tratou da questão de avaliação de interpretabilidade em regressão simbólica. A apresentação foi feita de forma online.
