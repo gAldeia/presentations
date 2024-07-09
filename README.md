@@ -47,3 +47,12 @@ Apresentação do meu exame de qualificação no Programa de Pós Graduação em
 ### Defesa_mestrado (2021)
 
 Apresentação do exame de defesa de dissertação de mestrado no Programa de Pós Graduação em Ciência da Computação na Universidade Federal do ABC. A apresentação da defesa realizou diversas modificações em relação à apresentação da qualificação, seguindo as orientações dadas pelos membros da banca após a qualificação. A dissertação tratou da questão de avaliação de interpretabilidade em regressão simbólica. A apresentação foi feita de forma online.
+
+### GECCO24_split_lexicase (2024)
+
+Apresentação do artigo submetido ao The Genetic and Evolutionary Computation Conference (GECCO) para o paper [GSI Aldeia, FO de França, and WG La Cava. 2024. Minimum variance threshold for epsilon-lexicase selection](https://arxiv.org/abs/2404.05909v1/)
+
+### GECCO24_inexact_simplification (2024)
+
+Apresentação do artigo submetido ao The Genetic and Evolutionary Computation Conference (GECCO) para o paper [GSI Aldeia, FO de França, WG La Cava. 2024. Inexact Simplification of Symbolic Regression Expressions with Locality-sensitive Hashing](https://arxiv.org/abs/2404.05898)
+
