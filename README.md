@@ -56,3 +56,6 @@ Apresentação do artigo submetido ao The Genetic and Evolutionary Computation C
 
 Apresentação do artigo submetido ao The Genetic and Evolutionary Computation Conference (GECCO) para o paper [GSI Aldeia, FO de França, WG La Cava. 2024. Inexact Simplification of Symbolic Regression Expressions with Locality-sensitive Hashing](https://arxiv.org/abs/2404.05898)
 
+### evolutionary_computation (2024)
+
+Apresentação dos conceitos de computação evolutiva para o curso de _Inglês para fins acadêmicos_ CLIP B2 cursado na Universidade Federal do ABC com a Profa. Dra. Bianca R. V. Garcia.
