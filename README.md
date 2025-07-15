@@ -59,3 +59,7 @@ Apresentação do artigo submetido ao The Genetic and Evolutionary Computation C
 ### evolutionary_computation (2024)
 
 Apresentação dos conceitos de computação evolutiva para o curso de _Inglês para fins acadêmicos_ CLIP B2 cursado na Universidade Federal do ABC com a Profa. Dra. Bianca R. V. Garcia.
+
+### GECCO25_srbench_2025 (2025)
+
+Apresentação do artigo submetido ao GECCO 2025 para o paper [Aldeia, G. S. I., Zhang, H., Bomarito, G., Cranmer, M., Fonseca, A., Burlacu, B., La Cava, W. G., & de França, F. O. (2025). Call for Action: towards the next generation of symbolic regression benchmark](https://arxiv.org/abs/2505.03977)
