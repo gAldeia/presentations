@@ -1,8 +1,16 @@
 # presentations
 
-Repositório para organizar e disponibilizar apresentações feitas.
+Repositório para organizar e disponibilizar apresentações feitas, assim como posters apresentados.
+
+Esses materiais possuem bastante valor e, muitas vezes, complementam significativamente a publicação original com mais explicações, gráficos, e ilustrações.
+
+Neste repositório eu centralizo todas as apresentações de trabalhos em que *eu* fui responsável por preparar e apresentar, com todas as imagens de minha autoria.
+
+Os arquivos estão organizados em ordem cronologica, e armazenados na pasta `/docs` para serem acessados online pelo github pages.
 
 -----
+
+## Apresentações
 
 ### DSPTeam (2019)
 
@@ -63,3 +71,23 @@ Apresentação dos conceitos de computação evolutiva para o curso de _Inglês 
 ### GECCO25_srbench_2025 (2025)
 
 Apresentação do artigo submetido ao GECCO 2025 para o paper [Aldeia, G. S. I., Zhang, H., Bomarito, G., Cranmer, M., Fonseca, A., Burlacu, B., La Cava, W. G., & de França, F. O. (2025). Call for Action: towards the next generation of symbolic regression benchmark](https://arxiv.org/abs/2505.03977)
+
+-----
+
+## Posters
+
+### interface_web_IC_UFABC (2019)
+
+Meu primeiro poster! Trabalho de Iniciação Científica realilzado na Universidade Federal do ABC, na área de regressão simbólica, apresentado durante o simpósio e premiado como segundo melhor trabalho. Orientado pelo Prof. Dr. Fabrício Olivetti de França, e que contém apresentação da interface web em `galdeia.github.io`.
+
+### semblance_TDOA_WLLS (2019)
+
+Poster utilizado para apresentar o artigo [Aldeia, G., Crispim, A., Barreto, G., Alves, K., Ferreira, H., & Filho, K. (2019). A semblance based TDOA algorithm for sound source localization. In Anais de XXXVII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. XXXVII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. Sociedade Brasileira de Telecomunicações. https://doi.org/10.14209/sbrt.2019.1570559090](https://biblioteca.sbrt.org.br/articles/2050)
+
+### fisher_info_BMBC (2024)
+
+Apresentação do trabalho investigando a Informação de Fisher na codificação de uma população de neurônios ao processar estímulos simulados do colículo inferior na tarefa de audição de tons puros vindos de diferentes fontes sonoras. Fruto de um estágio com o Prof. Dr. Rodrigo Pavão, com imensa participação do Prof. Dr. Bóris Marin.
+
+### simplificacao_POSCOMP (2024)
+
+Apresentação no workshop da pós graduação em ciência da computação da Universidade Federal do ABC sobre alguns resultados do artigo apresentado no GECCO 24 ([GSI Aldeia, FO de França, WG La Cava. 2024. Inexact Simplification of Symbolic Regression Expressions with Locality-sensitive Hashing](https://arxiv.org/abs/2404.05898))
